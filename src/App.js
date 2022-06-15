@@ -1,11 +1,12 @@
-import './App.css';
+import "./App.css";
+import WorkBoard from "./Components/WorkBoard/WorkBoard";
 
 function App() {
-  return (
-    <div className="App">
-      <h2>Hello World</h2>
-    </div>
-  );
+    return (
+        <div className="App">
+            <WorkBoard></WorkBoard>
+        </div>
+    );
 }
 
 export default App;
