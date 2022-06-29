@@ -3,7 +3,7 @@ import React from "react";
 const WorkBoard = () => {
     return (
         <div className="max-w-7xl mx-auto">
-            <h2 className="text-5xl font-bold text-blue-500 text-center mt-3">
+            <h2 className="text-5xl font-bold text-blue-500 text-left mt-3">
                 Work Board
             </h2>
             {/* Work Board */}
