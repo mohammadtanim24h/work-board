@@ -4,7 +4,7 @@ const WorkBoard = () => {
     return (
         <div className="max-w-7xl mx-auto">
             <h2 className="text-5xl font-bold text-blue-500 text-left mt-3">
-                Work Board
+                Work Tanimee
             </h2>
             {/* Work Board */}
             <div className="mt-4">
